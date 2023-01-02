@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bismarkstoney
-- 👀 I’m interested in Fullstack(Javascript and python), Machine and deep learning
+- 👀 I’m interested in Devops, Fullstack(Javascript and python), Machine and deep learning
 - 🌱 I’m currently learning  GO
 - 💞️ I’m looking to collaborate on any of the above 
 - 📫 How to reach me bismarkstoney@yahoo.com
